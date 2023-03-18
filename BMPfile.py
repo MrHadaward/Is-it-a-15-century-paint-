@@ -1,3 +1,5 @@
+# OMG_AN_IMAGE() is the main function ur gonna use outside this file  
+
 def OMG_AN_IMAGE(file_name: str, pixels: list, width: int, height: int):
     '''
     file_name: name of the file with no extension
